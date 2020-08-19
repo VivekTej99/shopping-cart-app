@@ -1,3 +1,24 @@
+# Shopping-Cart
+
+___
+
+This a basic shopping cart application which was built using reactjs, bootstrap. 
+
+The following screenshot displays the products home page.
+
+![ Products Home Page of Shoopin Cart App ]!(./Screenshot from 2020-08-19 12-20-45.png "ScreenShot Of Shopping-Cart")
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
