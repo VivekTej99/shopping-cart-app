@@ -1,0 +1,84 @@
+nav
+{
+	height:4em;
+}
+.home,.home1,.home2
+{
+	font-size: 1.5vw;
+	margin-top: 0.2vw;
+	padding: 1vw;
+	color: rgba(75,50,160);
+}
+.home
+{
+	padding-left: 20vw;
+}
+.home2
+{
+	padding-left: 35vw;
+	width: 50vw;
+	/*font-family: courier;*/
+	font-weight: bolder;
+	font-size: 12vw;
+}
+
+.row
+{
+	margin-top: 3vw;
+}
+
+.banner
+{
+	font-family: courier;
+	color: rgba(120,180,75);
+	font-weight: bolder;
+	margin-top: 1.5vw;
+}
+.navbar
+{
+    /*background-color: tomato;*/
+    border-radius: 0.2vw;
+
+}
+.card
+{
+	border:2px solid balck;
+}
+
+	
+.card-product .img-wrap {
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    position: relative;
+    height: 220px;
+    text-align: center;
+}
+.card-product .img-wrap img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: cover;
+}
+.card-product .info-wrap {
+    overflow: hidden;
+    padding: 15px;
+    border-top: 2px solid #eee;
+}
+.card-product .bottom-wrap {
+    padding: 15px;
+    border-top: 1px solid #eee;
+}
+.phead
+{
+	
+	font-family: courier;
+	font-weight: bolder;
+	font-variant: small-caps;
+	font-size: 2.5vw;
+	color: rgba(12,55,160,0.8);
+	text-align: center;
+
+}
+.navbar
+{
+	background-color: #e3f2fd
+}
