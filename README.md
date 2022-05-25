@@ -6,7 +6,7 @@ This a basic shopping cart application which was built using reactjs, bootstrap.
 
 The following screenshot displays the products home page.
 
-![ Products Home Page of Shoopin Cart App ]!(Screenshot from 2020-08-19 12-20-45.png "ScreenShot Of Shopping-Cart")
+![ Products Home Page of Shoopin Cart App ](banner.png "ScreenShot Of Shopping-Cart")
 
 
 ____
